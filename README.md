@@ -8,4 +8,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Ayumudayo/LeetHubRepo/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Ayumudayo/LeetHubRepo/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Ayumudayo/LeetHubRepo/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
