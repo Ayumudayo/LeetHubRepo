@@ -22,6 +22,7 @@ WHERE is_changed = 1
 UNION ALL
 
 # 가격 변경 없는 id를 구함
+# 기준 날짜 뒤의 변경 사항을 걸러내는 것
 SELECT DISTINCT product_id, 10 AS price
 FROM Products
 WHERE product_id NOT IN (
